@@ -1,0 +1,58 @@
+Setup React.js Project
+
+**Open cmd at the folder you want to save Project folder, run command:
+1. npx create-react-app react-jwt-auth
+2. npm install react-router-dom
+3.import { BrowserRouter } from "react-router-dom";
+4. npm install axios
+5. npm install bootstrap
+6. import "bootstrap/dist/css/bootstrap.min.css";
+7.npm install react-hook-form
+8.npm install bulma css
+
+..........................................
+Python project
+
+* pip install virtualenv
+* virtualenv env//python -m venv venv
+**Set-ExecutionPolicy Unrestricted -Force(in Powershell in adminstrator mode)
+* activate virtual env(cd env/Scripts>./Activate.ps1)
+* pip install Django
+* python -m pip install -r requirements.txt
+* django-admin.py startproject project-name
+* python manage.py startapp app-name
+* python manage.py runserver
+* pip install Django pillow/ python -m pip install Pillow
+* python manage.py makemigrations
+*python manage.py makemigrations <app name>
+* python manage.py migrate --run-syncdb
+* python manage.py createsuperuser 
+*pip install mysql-connector-python
+*pip install mysqlclient
+        	 ['default': {
+       		 'ENGINE': 'django.db.backends.mysql',
+       		 'NAME': 'django_react-ecom',
+       		  'USER': 'root',
+		  'PASSWORD': '',
+		  'HOST': 'localhost',
+      		  'PORT': '3306',
+    	}]
+*pip install djangorestframework
+*python -m pip install django-cors-headers
+* pip install djangorestframework
+* pip install django-cors-headers
+* pip install djangorestframework-simplejwt
+* pip install Django pillow
+* pip install requests
+* pip install django-widget-tweaks
+*python manage.py collectstatic
+*pip install django-formset-js
+*pip install django-crispy-forms
+*pip install django-bootstrap-modal-forms
+*pip install xhtml2pdf
+* pip install django-paypal
+*wsgi: from bagShop.wsgi import application
+
+*********************************************************************
+
+
